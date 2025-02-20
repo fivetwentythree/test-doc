@@ -4,6 +4,12 @@ theme: just-the-docs
 
 url: https://fivetwentythree.github.io/test-doc
 
+defaults:
+  - scope:
+      path: "README.md"
+      type: "pages"
+    values:
+      description: "this is how you grow knowledge"
 aux_links:
   "Github": 
     - https://github.com/fivetwentythree/test-doc
