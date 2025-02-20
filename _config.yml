@@ -5,4 +5,5 @@ theme: just-the-docs
 url: https://fivetwentythree.github.io/test-doc
 
 aux_links:
-  Template Repository: https://github.com/fivetwentythree/test-doc
+  "Github": 
+    - https://github.com/fivetwentythree/test-doc
